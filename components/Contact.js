@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <section>
       <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800 antialiased">
-        <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
+        <h1 className=" text-5xl md:text-9xl font-bold py-0 text-center md:text-left">
           Contact
         </h1>
       </div>
@@ -192,7 +192,7 @@ export default function Contact() {
             ></textarea>
             <input type="hidden" name="_subject" value="Message from Website!"/>
             <input type="hidden" name="_captcha" value="false"/>
-            <input type="hidden" name="_next" value={`https://sujeetgund.vercel.app/contact`} />
+            <input type="hidden" name="_next" value={`https://risman_hidayatulloh.vercel.app/contact`} />
             <button
               type="submit"
               className="bg-blue-500 rounded-md w-1/2 mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
