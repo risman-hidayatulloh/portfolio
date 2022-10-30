@@ -42,4 +42,4 @@ Deployment can be done in 3 easy steps.
 
 # Support 🎁
 
-<a href="https://www.linkedin.com/in/risman-hidayatulloh/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Linkedin" height="41" width="174"></a>
+<a href="https://www.linkedin.com/in/risman-hidayatulloh/" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-png-logo-23.png" alt="Linkedin" height="41" width="174"></a>
