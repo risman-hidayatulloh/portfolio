@@ -3,8 +3,6 @@
 
 Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Manu Arora](https://manuarora.in/). The website is completely Open Source, you can use it for whatever purpose you want.
 
-[Watch Preview On Youtube](https://youtu.be/TENBgUTzwgU)
-
 # Features ⚡️
 
 - Responsive layout, works well on both Mobile and Desktop
@@ -16,26 +14,6 @@ Portfolio for developers is a simple and minimalistic website to showcase your s
 # Pages 📝
 
 I've kept the pages as simple as possible. Only the required sections are included with minimal content.
-
-## Landing
-
-![Hompage](https://github.com/sujeetag04/portfolio/blob/main/demo-images/home.png)
-
-## About
-
-![Hompage](https://github.com/sujeetag04/portfolio/blob/main/demo-images/about.png)
-
-## Projects
-
-![Hompage](https://github.com/sujeetag04/portfolio/blob/main/demo-images/projects.png)
-
-## Experience
-
-![Hompage](https://github.com/sujeetag04/portfolio/blob/main/demo-images/experience.png)
-
-## Contact
-
-![Hompage](https://github.com/sujeetag04/portfolio/blob/main/demo-images/contact.png)
 
 # Tech Stack 📦️ 
 The website is built in my favourite Tech Stack and deployed on [Vercel](https://vercel.com)
@@ -64,6 +42,4 @@ Deployment can be done in 3 easy steps.
 
 # Support 🎁
 
-<a href="https://www.buymeacoffee.com/sujeetgund" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-# portfolio
-# portfolio
+<a href="https://www.linkedin.com/in/risman-hidayatulloh/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Linkedin" height="41" width="174"></a>
