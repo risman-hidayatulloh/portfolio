@@ -1,12 +1,12 @@
 const userData = {
-  githubUsername: "sujeetgund",
-  name: "Sujeet Gund",
+  githubUsername: "risman-hidayatulloh",
+  name: "Risman Hidayatulloh",
   designation: "Full Stack Developer",
-  avatarUrl: "/sujeet.jpg",
+  avatarUrl: "/risman.jpg",
   // avatarUrl: "https://pbs.twimg.com/profile_images/1494703351149301760/GeuTvrEd_400x400.jpg",
-  email: "sujeetgund@gmail.com",
-  phone: "+91 7620420850",
-  address: "Barshi, Maharashtra, India.",
+  email: "risman100@gmail.com",
+  phone: "+6285624287500",
+  address: "Garut, Jawa Barat, Indonesia.",
   projects: [
     {
       title: "Medium Clone",
@@ -61,7 +61,7 @@ const userData = {
     description: [
       `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then.`,
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using tailwindCSS so that I don't have to style everything by myself and - for obvious reasons - if you knew tailwind, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Node.js, Next.js, MongoDB, MySQL, Bootstrap, TailwindCSS, PHP, Strapi, Sanity etc to name a few. Although I barely know the syntax!`,
+      `But now, I'm a legend. I've been coding in React, Node.js, Next.js, PostfreSQL, MySQL, Bootstrap, TailwindCSS, PHP etc to name a few. Although I barely know the syntax!`,
     ],
     currentProject: "Cinemos API",
     currentProjectUrl: "https://sujeetgund.github.io/cinemos-docs/",
@@ -99,11 +99,11 @@ const userData = {
   resumeUrl:
     "#",
   socialLinks: {
-    instagram: "https://instagram.com/sujeet.gund",
-    twitter: "https://twitter.com/Sujeet_Gund",
-    linkedin: "https://in.linkedin.com/in/sujeetgund",
-    github: "https://github.com/sujeetgund",
-    facebook: "https://facebook.com/sujeet.gund.98",
+    instagram: "https://instagram.com/risman_hidayatulloh",
+    twitter: "https://twitter.com/",
+    linkedin: "https://in.linkedin.com/in/risman-hidayatulloh",
+    github: "https://github.com/risman-hidayatulloh",
+    facebook: "https://facebook.com/rismanhidayatulloh.s.kom",
   },
 };
 

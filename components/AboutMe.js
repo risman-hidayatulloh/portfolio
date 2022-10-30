@@ -131,7 +131,6 @@ export default function AboutMe() {
               </div>
             </div>
 
-            <a href="https://www.buymeacoffee.com/sujeetgund" target="_blank" rel="noreferrer"><img className="p-5" src="/buy-me-a-coffee.png" alt="Buy Me A Coffee" height="48" width="180" /></a>
           </div>
           {/* Text area */}
           <div className="col-span-1 md:col-span-2">

@@ -18,7 +18,7 @@ export default function Footer() {
                 <p
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
                 >
-                  Sujeet Gund
+                  Risman Hidayatulloh
                 </p>
               </div>
             </p>
